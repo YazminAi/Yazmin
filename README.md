@@ -1,7 +1,7 @@
 # YazminAI 🤖
 
 <div align="center">
-  <img src="./docs/static/img/yazmin.jpeg" alt="Yazmin Banner" width="100%" />
+  <img src="./docs/static/img/yazmin.png" alt="Yazmin Banner" width="100%" />
 </div>
 
 <div align="center">
